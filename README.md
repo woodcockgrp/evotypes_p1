@@ -23,3 +23,5 @@ Start with the ordering_real_data_script.R.  This inputs and processes the CCF d
 ## Contributions
 
 Code written by D J Woodcock.  R Tesloiuanu contributed to ideas in the Ordering package.  Project supervised by D C Wedge.
+
+https://doi.org/10.5281/zenodo.10214666
