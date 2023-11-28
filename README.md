@@ -1,6 +1,6 @@
 # evotypes_p1
 
-Code used in the manuscript "Genomic evolution shapes prostate cancer disease type", currently under review
+Code used in the manuscript "Genomic evolution shapes prostate cancer disease type"
 
 ## Installation
 
