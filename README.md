@@ -4,7 +4,7 @@ Code used in the manuscript "Genomic evolution shapes prostate cancer disease ty
 
 ## Installation
 
-No istallation is required.  Code consists of Matlab (Feature extraction) and R (Ordering) scripts that can be run from the command line in the respective pacakges.  
+No installation is required.  Code consists of Matlab (Feature extraction) and R (Ordering) scripts that can be run from the command line in the respective pacakges.  
 
 ## Usage
 
@@ -22,6 +22,6 @@ Start with the ordering_real_data_script.R.  This inputs and processes the CCF d
 
 ## Contributions
 
-Code written by D J Woodcock.  R Tesloiuanu contributed to ideas in the Ordering package.  Project supervised by D C Wedge.
+Code written by D J Woodcock.  R Teslo contributed to ideas in the Ordering package.  Project supervised by D C Wedge.
 
 https://doi.org/10.5281/zenodo.10214666
